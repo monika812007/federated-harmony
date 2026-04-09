@@ -1,5 +1,4 @@
-// Simulated federated learning state management
-import { create } from 'zustand';
+// Federated learning data and logic
 
 // We'll use React state instead of zustand to keep it simple
 
